@@ -1,0 +1,16 @@
+section{
+    border: 2px solid blue;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-bottom: 10px;
+}
+
+.card{
+    border: 2px solid blue;
+    padding: 10px;
+    width: 200px;
+    margin-bottom: 10px;
+    text-align: center;
+}
